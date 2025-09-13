@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        success: "hsl(var(--success))",
+        warning: "hsl(var(--warning))",
+        'progress-bg': "hsl(var(--progress-bg))",
+        'progress-fill': "hsl(var(--progress-fill))",
+        'text-hero': "hsl(var(--text-hero))",
+        'text-secondary': "hsl(var(--text-secondary))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
